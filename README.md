@@ -70,3 +70,5 @@ sift-surf-corner-detection/
 
 cv2.SIFT_create()
 
+cv2.xfeatures2d.SURF_create() (requires opencv-contrib)
+
