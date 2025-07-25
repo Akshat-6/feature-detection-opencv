@@ -63,3 +63,6 @@ sift-surf-corner-detection/
 
 
 🎯 Features
+
+📸 Load and preprocess grayscale images
+
