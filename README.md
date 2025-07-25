@@ -145,3 +145,5 @@ Impact of scale/rotation on feature matching
 
 🔐 Notes
 
+SURF requires opencv-contrib-python
+
