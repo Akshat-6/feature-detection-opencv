@@ -40,3 +40,5 @@ Uses integral images for rapid computation.
 
 Good for real-time applications.
 
+
+🔹 3. Harris Corner Detection
