@@ -186,3 +186,5 @@ If you logged timing or matches:
 - Video Stabilization
 
 - Structure-from-Motion (SfM)
+
+- Panoramic Image Stitching
