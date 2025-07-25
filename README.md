@@ -184,3 +184,5 @@ If you logged timing or matches:
 - 3D Scene Reconstruction
 
 - Video Stabilization
+
+- Structure-from-Motion (SfM)
