@@ -122,3 +122,5 @@ jupyter notebook
 
 Keypoints visualized as circles on input images
 
+Matches drawn between image pairs
+
