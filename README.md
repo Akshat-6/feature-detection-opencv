@@ -138,3 +138,5 @@ Difference between corner and blob detectors
 
 How to use OpenCV’s high-level feature detection API
 
+Use of BFMatcher for descriptor matching
+
