@@ -51,4 +51,13 @@ Best suited for static, grayscale images with sharp features.
 
 📁 Project Structure
 
+sift-surf-corner-detection/
+├── sift_feature_matching.ipynb
+├── surf_feature_matching.ipynb
+├── harris_corner_detection.ipynb
+├── images/
+│   ├── Optimus.jpg
+│   ├── Car.jpg
+├── README.md
+└── requirements.txt
 
