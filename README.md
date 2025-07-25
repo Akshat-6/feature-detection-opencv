@@ -209,3 +209,5 @@ If you'd like to improve this project (e.g., adding AKAZE or ORB), feel free to 
 
 
 ## 📝 Citation
+
+If you use this project in academic work, cite the original OpenCV documentation and this repo.
