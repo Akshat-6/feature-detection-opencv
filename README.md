@@ -99,3 +99,5 @@ NumPy
 
 Matplotlib
 
+
+🚀 How to Run
