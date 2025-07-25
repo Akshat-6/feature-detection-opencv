@@ -115,3 +115,5 @@ pip install opencv-python opencv-contrib-python numpy matplotlib
 
 3.Open and run the Jupyter notebooks:
 
+jupyter notebook
+
