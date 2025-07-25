@@ -170,3 +170,6 @@ If you logged timing or matches:
 - SIFT: ~0.45s per image pair
 - SURF: ~0.31s per image pair
 - Harris: ~0.05s (detection only)
+
+
+🧠 5. Use Cases / Real-World Applications
