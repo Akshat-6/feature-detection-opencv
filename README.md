@@ -173,3 +173,6 @@ If you logged timing or matches:
 
 
 🧠 5. Use Cases / Real-World Applications
+
+
+## 🧠 Real-World Applications
