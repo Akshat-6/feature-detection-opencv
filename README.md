@@ -117,3 +117,5 @@ pip install opencv-python opencv-contrib-python numpy matplotlib
 
 jupyter notebook
 
+
+📊 Sample Outputs
