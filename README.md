@@ -136,4 +136,5 @@ You can include screenshots in your README with:
 
 Difference between corner and blob detectors
 
+How to use OpenCV’s high-level feature detection API
 
