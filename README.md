@@ -149,3 +149,6 @@ SURF requires opencv-contrib-python
 
 May require cv2.xfeatures2d.SURF_create() access (if SURF is not patented anymore for your OpenCV version)
 
+
+📸 1. Side-by-Side Comparison Table of Algorithms
+
