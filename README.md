@@ -75,3 +75,5 @@ cv2.xfeatures2d.SURF_create() (requires opencv-contrib)
 cv2.cornerHarris()
 
 
+🎯 Match keypoints using BFMatcher (for SIFT & SURF)
+
