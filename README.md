@@ -143,3 +143,5 @@ Use of BFMatcher for descriptor matching
 Impact of scale/rotation on feature matching
 
 
+🔐 Notes
+
