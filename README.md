@@ -178,3 +178,5 @@ If you logged timing or matches:
 ## 🧠 Real-World Applications
 
 - Augmented Reality (AR)
+
+- Medical Image Registration
