@@ -38,3 +38,5 @@ Faster alternative to SIFT, based on Hessian matrix approximation.
 
 Uses integral images for rapid computation.
 
+Good for real-time applications.
+
