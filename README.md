@@ -182,3 +182,5 @@ If you logged timing or matches:
 - Medical Image Registration
 
 - 3D Scene Reconstruction
+
+- Video Stabilization
