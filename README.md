@@ -82,4 +82,6 @@ cv2.cornerHarris()
 
 Detected keypoints
 
+Matched keypoints between two images
+
 
