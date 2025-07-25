@@ -30,3 +30,6 @@ Computes a 128-dimensional descriptor for each keypoint.
 
 Uses Difference of Gaussians for scale-space extrema detection.
 
+
+
+🔹 2. SURF (Speeded-Up Robust Features)
