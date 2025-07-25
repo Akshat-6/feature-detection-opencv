@@ -20,3 +20,6 @@ Compare the behavior and performance of SIFT, SURF, and Harris Corner Detector
 
 
 📚 Theoretical Overview
+
+
+🔹 1. SIFT (Scale-Invariant Feature Transform)
