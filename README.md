@@ -89,3 +89,7 @@ Corner points on grayscale image
 
 
 💻 Technologies Used
+
+
+Python 3.x
+
