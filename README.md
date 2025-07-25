@@ -84,4 +84,5 @@ Detected keypoints
 
 Matched keypoints between two images
 
+Corner points on grayscale image
 
