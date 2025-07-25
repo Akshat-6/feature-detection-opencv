@@ -66,3 +66,5 @@ sift-surf-corner-detection/
 
 📸 Load and preprocess grayscale images
 
+🧠 Detect keypoints using:
+
