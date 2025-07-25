@@ -42,3 +42,7 @@ Good for real-time applications.
 
 
 🔹 3. Harris Corner Detection
+
+Classical method for detecting corners based on eigenvalues of the gradient matrix.
+
+
