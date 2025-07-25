@@ -93,3 +93,5 @@ Corner points on grayscale image
 
 Python 3.x
 
+OpenCV (cv2)
+
