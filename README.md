@@ -134,4 +134,6 @@ You can include screenshots in your README with:
 
 🧠 Key Learnings
 
+Difference between corner and blob detectors
+
 
