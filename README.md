@@ -152,3 +152,9 @@ May require cv2.xfeatures2d.SURF_create() access (if SURF is not patented anymor
 
 📸 1. Side-by-Side Comparison Table of Algorithms
 
+
+| Algorithm     | Scale Invariant | Rotation Invariant | Speed     | Descriptor Size | Patent Status |
+|---------------|------------------|---------------------|-----------|------------------|----------------|
+| **SIFT**       | ✅               | ✅                  | Moderate  | 128              | Free (since 2020) |
+| **SURF**       | ✅               | ✅                  | Fast      | 64 or 128        | Previously Patented |
+| **Harris**     | ❌               | ❌                  | Very Fast | N/A              | Open Source     |
