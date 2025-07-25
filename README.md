@@ -127,3 +127,5 @@ Matches drawn between image pairs
 Corners highlighted with red dots or circles
 
 
+You can include screenshots in your README with:
+
