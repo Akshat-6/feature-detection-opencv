@@ -80,4 +80,6 @@ cv2.cornerHarris()
 
 🖼️ Visualize:
 
+Detected keypoints
+
 
