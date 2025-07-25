@@ -188,3 +188,6 @@ If you logged timing or matches:
 - Structure-from-Motion (SfM)
 
 - Panoramic Image Stitching
+
+
+💡 Future Enhancements
