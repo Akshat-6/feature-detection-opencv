@@ -23,3 +23,6 @@ Compare the behavior and performance of SIFT, SURF, and Harris Corner Detector
 
 
 🔹 1. SIFT (Scale-Invariant Feature Transform)
+
+Detects keypoints invariant to scale, rotation, and illumination.
+
