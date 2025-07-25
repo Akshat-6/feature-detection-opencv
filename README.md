@@ -17,3 +17,6 @@ Match features between image pairs
 
 Compare the behavior and performance of SIFT, SURF, and Harris Corner Detector
 
+
+
+📚 Theoretical Overview
