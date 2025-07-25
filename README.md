@@ -191,3 +191,7 @@ If you logged timing or matches:
 
 
 💡 Future Enhancements
+
+Compare with ORB, AKAZE, and BRIEF
+
+
