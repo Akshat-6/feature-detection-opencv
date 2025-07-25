@@ -110,3 +110,4 @@ cd sift-surf-corner-detection
 
 2.Install dependencies:
 
+pip install opencv-python opencv-contrib-python numpy matplotlib
