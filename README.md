@@ -28,3 +28,5 @@ Detects keypoints invariant to scale, rotation, and illumination.
 
 Computes a 128-dimensional descriptor for each keypoint.
 
+Uses Difference of Gaussians for scale-space extrema detection.
+
