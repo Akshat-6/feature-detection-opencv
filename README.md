@@ -5,3 +5,7 @@ Implementation of keypoint detection and matching using SIFT, SURF, and Corner D
 
 
 This project demonstrates the use of feature detection algorithms—SIFT, SURF, and Harris Corner Detection—to extract and compare key points across images for various computer vision tasks like matching, registration, and motion tracking.
+
+
+
+📌 Objective
