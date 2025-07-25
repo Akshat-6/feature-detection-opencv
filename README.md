@@ -68,3 +68,5 @@ sift-surf-corner-detection/
 
 🧠 Detect keypoints using:
 
+cv2.SIFT_create()
+
