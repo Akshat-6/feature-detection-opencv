@@ -33,3 +33,6 @@ Uses Difference of Gaussians for scale-space extrema detection.
 
 
 🔹 2. SURF (Speeded-Up Robust Features)
+
+Faster alternative to SIFT, based on Hessian matrix approximation.
+
