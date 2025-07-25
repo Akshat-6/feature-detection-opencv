@@ -124,3 +124,6 @@ Keypoints visualized as circles on input images
 
 Matches drawn between image pairs
 
+Corners highlighted with red dots or circles
+
+
