@@ -206,3 +206,6 @@ Evaluate performance (speed & accuracy) across detectors
 ## 🙌 Contributing
 
 If you'd like to improve this project (e.g., adding AKAZE or ORB), feel free to fork and submit a pull request!
+
+
+## 📝 Citation
