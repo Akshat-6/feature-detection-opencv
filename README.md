@@ -140,3 +140,6 @@ How to use OpenCV’s high-level feature detection API
 
 Use of BFMatcher for descriptor matching
 
+Impact of scale/rotation on feature matching
+
+
