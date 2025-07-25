@@ -108,3 +108,5 @@ Matplotlib
 git clone https://github.com/yourusername/sift-surf-corner-detection.git
 cd sift-surf-corner-detection
 
+2.Install dependencies:
+
