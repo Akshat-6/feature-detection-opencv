@@ -97,3 +97,5 @@ OpenCV (cv2)
 
 NumPy
 
+Matplotlib
+
