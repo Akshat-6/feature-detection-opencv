@@ -45,4 +45,7 @@ Good for real-time applications.
 
 Classical method for detecting corners based on eigenvalues of the gradient matrix.
 
+Best suited for static, grayscale images with sharp features.
+
+
 
