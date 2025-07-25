@@ -198,4 +198,6 @@ Implement FLANN-based matcher
 
 Real-time camera feed keypoint detection
 
+Evaluate performance (speed & accuracy) across detectors
+
 
