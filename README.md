@@ -26,3 +26,5 @@ Compare the behavior and performance of SIFT, SURF, and Harris Corner Detector
 
 Detects keypoints invariant to scale, rotation, and illumination.
 
+Computes a 128-dimensional descriptor for each keypoint.
+
