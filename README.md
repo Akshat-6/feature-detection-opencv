@@ -12,3 +12,5 @@ This project demonstrates the use of feature detection algorithms—SIFT, SURF, 
 
 
 Detect and visualize important features in images
+
+Match features between image pairs
