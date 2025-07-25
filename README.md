@@ -9,3 +9,6 @@ This project demonstrates the use of feature detection algorithms—SIFT, SURF, 
 
 
 📌 Objective
+
+
+Detect and visualize important features in images
