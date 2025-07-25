@@ -49,3 +49,6 @@ Best suited for static, grayscale images with sharp features.
 
 
 
+📁 Project Structure
+
+
