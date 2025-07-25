@@ -119,3 +119,6 @@ jupyter notebook
 
 
 📊 Sample Outputs
+
+Keypoints visualized as circles on input images
+
