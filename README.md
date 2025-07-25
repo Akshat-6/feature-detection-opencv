@@ -196,4 +196,6 @@ Compare with ORB, AKAZE, and BRIEF
 
 Implement FLANN-based matcher
 
+Real-time camera feed keypoint detection
+
 
